@@ -1,5 +1,7 @@
 This is Just a Simple Game Loop in java
 
+(Code is in the src folder)
+
 this project has the following mechanics:
 
 FPS counter
