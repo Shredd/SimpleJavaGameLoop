@@ -1,4 +1,4 @@
-# Simple Game Loop in java
+# Simple Game Loop In Java
 
 - (Code is in the src folder)
 
